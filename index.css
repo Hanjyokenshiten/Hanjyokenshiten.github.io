@@ -29,11 +29,7 @@ body .top .ttl .ttl-sec {
 body .main {
   padding-top: 70px;
   padding-bottom: 70px;
-  background-image: url("images/top-background.jpg");
-  background-size: cover;
-  background-position: center center;
   height: auto;
-  background-attachment: fixed
 }
 
 body .main .row .news-box {
