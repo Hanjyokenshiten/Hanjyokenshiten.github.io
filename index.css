@@ -1,10 +1,4 @@
-body .top {
-  height: 100vh;
-  background-image: url("images/top-image.jpg");
-  background-size: cover;
-  background-position: center center;
-  display: flex
-}
+
 
 body .top .ttl {
   color: rgba(228, 228, 228, 0.8);
