@@ -16,7 +16,7 @@ body footer .row .ft-fir{margin-bottom:60px}
 body footer .row .ft-fir img{width:20%;display:block;margin-bottom:20px}
 body footer .ft-sec{text-align:center;margin-bottom:12px}
 .row{width:100%;}
-body footer .footer-btns{margin:30px auto 30px auto;width:210px;display:flex}
+body footer .footer-btns{margin:30px auto 30px auto;width:260px;display:flex}
 body footer .footer-btns .twitter-btn,body footer .footer-btns .facebook-btn,body footer .footer-btns .instagram-btn,body footer .footer-btns .tiktok-btn{padding-left:2.5px;width:50px;height:50px;border-radius:50%;background-color:#FAFFFF;display:inline-block;margin:0 auto 0 auto;text-decoration:none}
 body footer .footer-btns .twitter-btn i,body footer .footer-btns .facebook-btn i,body footer .footer-btns .instagram-btn i,body footer .footer-btns .tiktok-btn i{color:#881C36;font-size:24px;display:flex;align-items:center;justify-content:center;line-height:50px}
 .row{margin:0!important}
