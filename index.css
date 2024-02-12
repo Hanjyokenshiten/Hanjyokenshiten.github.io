@@ -58,6 +58,10 @@ body .main .row .card {
   color: #881c36;
 }
 
+body .main .row .card_delivery {
+  opacity: 0;
+}
+
 body .main .row .card h2 {
   text-align: center;
   font-size: 26px;
