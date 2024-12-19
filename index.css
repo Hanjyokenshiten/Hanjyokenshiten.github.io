@@ -40,7 +40,7 @@ body .top .ttl .ttl-sec {
 
 body .main {
   padding-top: 70px;
-  padding-bottom: 70px;
+  padding-bottom: 100px;
   height: auto;
 }
 
@@ -56,6 +56,10 @@ body .main .row .card {
   height: 340px;
   background-color: #f2f2f2;
   color: #881c36;
+}
+
+body .main .row .fire-brigade-support-img {
+  height: 340px;
 }
 
 body .main .row .card_delivery {
