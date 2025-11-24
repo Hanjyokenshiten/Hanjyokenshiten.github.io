@@ -145,7 +145,7 @@
   }
 }
 
-@media (max-width: 480px){
+@media (max-width: 767px){
   body .main .row .fire-brigade-support-text {
     font-size: 16px;
   }
