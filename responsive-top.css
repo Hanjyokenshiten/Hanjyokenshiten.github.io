@@ -142,4 +142,10 @@
   }
 }
 
+@media (min-width: 481px) and (max-width: 991px) {
+  .fire-brigade-support-text {
+    font-size: 12px;
+  }
+}
+
 /*# sourceMappingURL=responsive-top.css.map */
