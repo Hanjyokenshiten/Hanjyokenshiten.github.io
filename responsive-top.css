@@ -1,4 +1,4 @@
-@media (max-width: 991px) {
+@media (max-width: 1023px) {
   body header {
     height: 150px;
   }
@@ -145,7 +145,7 @@
   }
 }
 
-@media (max-width: 767px){
+@media (max-width: 768px){
   body .main .row .fire-brigade-support-text {
     font-size: 16px;
   }
